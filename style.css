@@ -1,0 +1,22 @@
+html, body {
+    background-color: #CADBE0;
+}
+
+.container {
+    height: 24em;
+    position: relative;
+    margin: auto;
+    width: 70%;
+  }
+
+.heading{
+    text-align: center;
+    display: block;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    color: #494369;
+    font-family: 'Staatliches', cursive;
+}
