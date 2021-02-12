@@ -34,6 +34,7 @@ a{
     color: #494369;
     font-family: 'Staatliches', cursive;
     text-decoration: none;
+    margin-bottom: 0%;
 }
 
 
@@ -41,7 +42,7 @@ a{
     margin-left: 22%;
     margin-right: 22%;
     font-family: Arial, Helvetica, sans-serif;
-    margin-top: -20%;
+    margin-top: -15%;
     text-align: justify;
     color: white;
     text-decoration: none;
