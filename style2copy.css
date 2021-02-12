@@ -2,6 +2,16 @@ html, body {
     background-color: #CADBE0;
 }
 
+a {
+    text-align: right;
+    font-family: 'Staatliches', cursive;
+    text-decoration: none;
+}
+.shapes {
+    position: absolute;
+    top: 20%;
+    left: 10%
+}
 
 .circle1 {
 
@@ -50,10 +60,10 @@ top: 129px;
 
 .circle4 {
     position: absolute;
-width: 34.85px;
-height: 34.85px;
-left: 439.86px;
-top: 102.96px;
+    width: 34.85px;
+    height: 34.85px;
+    left: 439.86px;
+    top: 102.96px;
     background-color: #AE8BA9 ;
     border-radius: 50%;
 }
@@ -71,10 +81,10 @@ top: 102.96px;
 
 .circle6 {
     position: absolute;
-width: 63.88px;
-height: 63.88px;
-left: 529.01px;
-top: 131.71px;
+    width: 63.88px;
+    height: 63.88px;
+    left: 529.01px;
+    top: 131.71px;
     background-color: #494369 ;
     border-radius: 50%;
 }

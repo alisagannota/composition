@@ -2,6 +2,18 @@ html, body {
     background-color: #CADBE0;
 }
 
+.box{
+    background-color: #C39DA5;
+    margin-top: 8%;
+    margin-left:15%;
+    margin-right:15%;
+    border: 20px #494369;
+}
+
+a{
+    display: block;
+    text-decoration: none;
+}
 .container {
     height: 24em;
     position: relative;
@@ -9,12 +21,13 @@ html, body {
     width: 50%;
   }
 
+
 .heading{
     text-align: center;
     display: block;
     margin: 0;
     position: absolute;
-    top: 50%;
+    top: 40%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     color: #494369;
@@ -22,7 +35,13 @@ html, body {
     text-decoration: none;
 }
 
-p{
-    text-align: center;
-    margin-top: -15%;
+
+.description {
+    margin-left: 22%;
+    margin-right: 22%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -20%;
+    text-align: justify;
+    color: white;
+    text-decoration: none;
 }
