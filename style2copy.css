@@ -6,11 +6,13 @@ a {
     text-align: right;
     font-family: 'Staatliches', cursive;
     text-decoration: none;
+    margin: 0 auto;
 }
 .shapes {
     position: absolute;
     top: 20%;
-    left: 10%
+    left: 10%;
+    max-width: 100%;
 }
 
 .circle1 {
