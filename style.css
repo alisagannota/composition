@@ -8,6 +8,7 @@ html, body {
     margin-left:15%;
     margin-right:15%;
     border: 20px #494369;
+    position: relative;
 }
 
 a{
@@ -44,4 +45,5 @@ a{
     text-align: justify;
     color: white;
     text-decoration: none;
+    padding-top: 2%;
 }
